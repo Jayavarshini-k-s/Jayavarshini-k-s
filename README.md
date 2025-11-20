@@ -83,13 +83,11 @@
 
 ###
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayavarshini-k-s/Jayavarshini-k-s/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayavarshini-k-s/Jayavarshini-k-s/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jayavarshini-k-s/Jayavarshini-k-s/output/pacman-contribution-graph.svg">
-</picture> -->
-
-![snake gif](https://github.com/Jayavarshini-k-s/Jayavarshini-k-s/blob/output/github-snake-dark.svg)
+</picture> 
 
 ###
 
@@ -100,8 +98,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=The%20End&fontSize=36&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&color=gradient"  />
 </div>
 
 ###
